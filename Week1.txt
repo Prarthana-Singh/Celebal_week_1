@@ -1,0 +1,15 @@
+What is Python?
+Installing Python
+Basic Syntax
+Lists
+Tuples
+Dictionaries
+Sets
+Strings
+Conditional Statements
+Loops
+Break and Continue Statements
+Error Handling
+Creating and Using Functions
+Importing Modules
+Creating and Using custom Modules
